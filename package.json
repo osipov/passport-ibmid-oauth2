@@ -1,0 +1,26 @@
+{
+  "name": "passport-ibmid-oauth2",
+  "version": "0.0.1",
+  "description": "Passport for IBM ID OAuth2",
+  "main": "./lib",
+  "repository": "https://github.com/cosipov/passport-ibmid-oauth2",
+  "keywords": [
+    "passport",
+    "ibm id",
+    "oauth2",
+    "oauth",
+    "ibmid",
+    "ibm sso"
+  ],
+  "author": "IBM",
+  "contributors": [
+    {
+      "name": "Carl Osipov",
+      "email": "last name at gmail.com"
+    }
+  ],
+  "license": "Apache 2.0",
+  "dependencies": {
+    "passport-oauth": "~0.1.14"
+  }
+}
