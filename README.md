@@ -10,4 +10,4 @@ IBM ID Documentation
 https://idaas.ng.bluemix.net/idaas/doc/identity.jsp
 
 IBM BlueMix
-www.bluemix.net
+http://www.bluemix.net
