@@ -10,11 +10,8 @@ Details on how to use this package and the sample are in the following blog post
 Links
 =====
 
-IBM ID Registration
-https://www.ibm.com/account/profile/us?page=reg
-
 IBM ID Documentation
-https://idaas.ng.bluemix.net/idaas/doc/identity.jsp
+https://console.bluemix.net/docs/services/appid/index.html#gettingstarted
 
 IBM Bluemix
 http://www.bluemix.net
